@@ -15,7 +15,7 @@ env:
 
 jobs:
   build-android:
-    runs-on: ubuntu-26.04
+    runs-on: durative
     name: ${{ matrix.name }}
     timeout-minutes: 60
     strategy:
