@@ -3618,3 +3618,5 @@ void Variant::unregister_types() {
 	_unregister_variant_utility_functions();
 	_unregister_variant_gdtypes();
 }
+
+// Durative retest: incremental leaf input, 2026-11-16.
